@@ -13,3 +13,19 @@ svg{
     min-width: 1000px;
     min-height: 600px
 }
+
+text {
+    font-size: 12px;
+}
+
+div#tooltip {
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+svg {
+    background-color: #3e4444;
+    margin: 5px;
+    padding: 12px;
+}
